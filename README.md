@@ -1,4 +1,3 @@
-# SecretMessage
 # Secret Message Constant Term Calculator
 
 This repository demonstrates the calculation of the constant term (c) of a polynomial using Lagrange interpolation. The project processes JSON data using Node.js. The constant term represents the value of the polynomial when \( x = 0 \).
